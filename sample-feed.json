@@ -1,0 +1,4 @@
+{
+  "items": [],
+  "note": "For authorized custom feeds use items with id,title,category,duration,thumbnail,embedUrl,verifiedAdults:true,embeddingAllowed:true. Both flags must reflect actual verified documentation."
+}
