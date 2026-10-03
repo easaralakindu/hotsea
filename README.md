@@ -28,3 +28,4 @@ Production variables are read by Pages Functions at runtime. Keep the provider U
 - `status:ok,published:0` means the provider is reachable but no returned videos are independently approved.
 
 The 18+ confirmation is an interface notice, not legally sufficient age verification. Replace the legal/privacy templates and implement jurisdiction-appropriate verification and moderation before public release of explicit content.
+HOTSEA automatic video feed configuration update.
